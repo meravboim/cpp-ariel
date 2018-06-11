@@ -1,4 +1,4 @@
-# cpp-arieך
+# cpp-ariel
 
 # Overview:
 This repository contains the exersizes of the course c++ in Ariel university. <br /> 
